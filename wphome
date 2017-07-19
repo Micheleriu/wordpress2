@@ -1,0 +1,2 @@
+define('WP_HOME','http://your-site.com');
+define('WP_SITEURL','http://your-site.com');
